@@ -4,3 +4,4 @@ python-dotenv
 requests
 agora-token-builder
 pydantic
+agora-agents
